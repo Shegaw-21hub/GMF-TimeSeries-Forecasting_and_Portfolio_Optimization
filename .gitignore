@@ -1,0 +1,10 @@
+# Virtual environment
+venv/
+# Data
+data/raw/
+data/processed/
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+# Python compiled files
+__pycache__/
+*.pyc
