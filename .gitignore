@@ -8,5 +8,7 @@ data/processed/
 # Python compiled files
 __pycache__/
 *.pyc
-.venv_arima/
-.venv_tf/
+# Virtual environments
+venv/
+venv_arima/
+venv_tf/
