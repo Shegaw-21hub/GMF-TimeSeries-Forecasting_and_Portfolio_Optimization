@@ -94,21 +94,27 @@ The initial analysis of **TSLA**, **BND**, and **SPY** data from **July 2015 to 
 - **Risk Metrics:**  
   The 95% daily Value at Risk (VaR) was highest for **TSLA** (**5.47%**), followed by **SPY** (**1.72%**) and **BND** (**0.49%**).  
   This quantifies the potential daily loss on 95% of trading days.
-## 🚀 Future Work Roadmap
+## Task 2: Time Series Forecasting
 
-The project is on track to complete the remaining tasks in the following order:
+- Goal: To forecast future daily returns for Tesla stock.
+- Models: Implemented and compared two models: a classical ARIMA model and a deep learning LSTM model.
+- Outcome: Both models were evaluated on key metrics (MAE, RMSE, MAPE) to determine the most accurate forecast for use in portfolio optimization.
+## Task 3: Portfolio Optimization
 
-- **Task 2: Develop Forecasting Models:**  
-  Build and compare an ARIMA/SARIMA model with an LSTM model to predict TSLA's future stock prices.
+- Goal: To construct an optimal portfolio using the forecasts from Task 2.
+- Methodology: Utilized modern portfolio theory to find the optimal asset allocation that maximizes return for a given level of risk.
+- Outcome: The task resulted in an optimized portfolio with calculated asset weights and expected risk/return metrics.
+## Task 4: Backtesting & Analysis
 
-- **Task 3: Forecast Future Market Trends:**  
-  Use the best-performing model to generate a 6-12 month forecast for TSLA, including confidence intervals.
+- Goal: To evaluate the performance of the optimized portfolio.
+- Methodology: The portfolio was backtested against a historical period to measure its performance compared to a market benchmark.
+- Outcome: Key performance indicators such as Sharpe Ratio, maximum drawdown, and cumulative returns were calculated and analyzed.
 
-- **Task 4: Optimize Portfolio:**  
-  Apply the TSLA forecast alongside historical data for BND and SPY to generate the Efficient Frontier and identify optimal portfolios.
+## Task 5: Final Report & Conclusion
 
-- **Task 5: Strategy Backtesting:**  
-  Simulate the performance of the chosen portfolio against a benchmark to validate the strategy.
+- Goal: To summarize the project findings and insights.
+- Outcome: A final report summarizing the performance of the forecasting models, the effectiveness of the optimized portfolio, and the key lessons learned throughout the project.
+
 ## 📬 Contact Information
 
 **Shegaw Adugna Melaku**  
