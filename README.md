@@ -115,11 +115,6 @@ The initial analysis of **TSLA**, **BND**, and **SPY** data from **July 2015 to 
 - Goal: To summarize the project findings and insights.
 - Outcome: A final report summarizing the performance of the forecasting models, the effectiveness of the optimized portfolio, and the key lessons learned throughout the project.
 
-## 📬 Contact Information
-
-**Shegaw Adugna Melaku**  
-📧 Email: [Send me an email](mailto:shegamihret@gmail.com)  
-🔗 LinkedIn: [Visit my LinkedIn profile](https://www.linkedin.com/in/shegaw-adugna-b751a1166/)
 
 ---
 
